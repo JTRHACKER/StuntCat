@@ -1,0 +1,12 @@
+pygame~=2.0.1
+pyscroll
+pytmx==3.21.6;python_version<="2.7"
+pytmx;python_version>"2.7"
+
+thorpy
+pymunk>=5.4.2,<6.0.0
+typing;python_version<"3.5"
+
+pytest~=6.2.1
+setuptools~=51.1.1
+PyTMX~=3.24
