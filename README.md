@@ -2,7 +2,7 @@ It's an awesome 2D Souls-like Platformer that can give you a lot of wonderful im
 
 By the way, I used word-play in the title: "StuntCat".
 
-My game has really hard gameplay(its so-called mode: "Yes, honey, hurt me plenty!") and can you collect although 100 scores?
+My game has really hard gameplay(its so-called mode: "Yes, honey, hurt me plenty!") and can you collect 100 scores?
 
 If you don't afraid let's play!
 
